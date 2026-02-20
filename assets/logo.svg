@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" fill="none">
+  <rect width="680" height="200" rx="16" fill="#0d1117"/>
+  <defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0L0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/></pattern></defs>
+  <rect width="680" height="200" fill="url(#g)"/>
+  <g transform="translate(40,40)">
+    <rect width="120" height="120" rx="16" fill="#1a2332" stroke="#f85149" stroke-width="2.5"/>
+    <rect x="20" y="25" width="55" height="40" rx="3" fill="none" stroke="#f85149" stroke-width="2" opacity="0.5"/>
+    <circle cx="47" cy="45" r="10" fill="none" stroke="#f85149" stroke-width="1.5" opacity="0.4"/>
+    <circle cx="47" cy="45" r="3" fill="#f85149" opacity="0.5"/>
+    <rect x="80" y="30" width="20" height="30" rx="3" fill="none" stroke="#3fb950" stroke-width="1.5" opacity="0.4"/>
+    <path d="M85 40 L88 45 L95 38" stroke="#3fb950" stroke-width="1.5" fill="none" opacity="0.5"/>
+    <path d="M25 80 L40 75 L55 82 L70 72 L85 78 L95 70" stroke="#f85149" stroke-width="1.5" fill="none" opacity="0.4"/>
+    <text x="60" y="108" font-family="monospace" font-size="9" fill="#f85149" text-anchor="middle" opacity="0.5">ANOMALY</text>
+  </g>
+  <text x="195" y="72" font-family="'Segoe UI',system-ui,sans-serif" font-size="38" fill="#e6edf3" font-weight="700" letter-spacing="-1">Mall Security</text>
+  <text x="195" y="118" font-family="'Segoe UI',system-ui,sans-serif" font-size="38" fill="#f85149" font-weight="700" letter-spacing="-1">Anomaly Detect</text>
+  <text x="197" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#7d8590">&#x89C6;&#x9891;&#x76D1;&#x63A7;&#x5F02;&#x5E38;&#x68C0;&#x6D4B; | YOLOv8 | Streamlit</text>
+  <g transform="translate(197,162)">
+    <rect width="66" height="22" rx="11" fill="#1a2332" stroke="#f85149" stroke-width="1"/>
+    <text x="33" y="15" font-family="monospace" font-size="10" fill="#f85149" text-anchor="middle">Python</text>
+    <rect x="76" width="72" height="22" rx="11" fill="#1a2332" stroke="#58a6ff" stroke-width="1"/>
+    <text x="112" y="15" font-family="monospace" font-size="10" fill="#58a6ff" text-anchor="middle">YOLOv8</text>
+    <rect x="158" width="78" height="22" rx="11" fill="#1a2332" stroke="#3fb950" stroke-width="1"/>
+    <text x="197" y="15" font-family="monospace" font-size="10" fill="#3fb950" text-anchor="middle">Streamlit</text>
+  </g>
+</svg>
